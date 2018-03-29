@@ -12,3 +12,4 @@ Cesium测量工具类,可以实现贴地、贴模型绘制、量算（量高、�
 使用见DrawTool.html
 
 ### 3. path路径实现效果如下：
+![alt text](https://github.com/tomhaitao/Cesium-Plugin/blob/master/QQ20180329-181746%402x.png)
